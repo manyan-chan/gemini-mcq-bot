@@ -1,0 +1,7 @@
+google-generativeai
+elevenlabs
+pynput
+pyperclip
+Pillow
+python-dotenv
+pyautogui
